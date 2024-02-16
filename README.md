@@ -24,7 +24,7 @@ Follow these steps to install and run the Tomoon project:
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/tomoon.git
+git clone https://github.com/ziyaipek/tomoon.git
 
 Navigate to the project directory:
 
